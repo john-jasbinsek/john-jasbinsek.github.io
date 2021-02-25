@@ -4,7 +4,9 @@
 ## About Me
 
 I am a professor geology and geophysics at [California Polytechnic State University](https://calpoly.edu),
-San Luis Obispo, where I am tucked away in the [Physics Department](https://physics.calpoly.edu) for safe keeping.
+San Luis Obispo, where I am tucked away in the [Physics Department](https://physics.calpoly.edu) for safe keeping. 
+
+This website is only about my Cal Poly activities. I am rehabilitating a [personal blog/website](https://jblog.blot.im/), you can check to see if it's back online.
 
 - You can find out more about geology and geophysics at the [Cal Poly Geology website](https://www.calpolygeology.info/).
 
@@ -13,10 +15,6 @@ San Luis Obispo, where I am tucked away in the [Physics Department](https://phys
 <img src="./about-pic.jpg" alt="about-pic" style="zoom:35%;" />
 
 <center><i>Enjoying the San Andreas Fault on a field trip in the Carrizo Plain</i></center>
-
-## Other Miscellaneous Items
-
-*... nothing yet ...*
 
 
 
