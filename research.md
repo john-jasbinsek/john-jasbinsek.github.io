@@ -5,7 +5,7 @@
 I work in two areas of geophysics: **Near-surface Geophysics** and **Global Seismology**.
 I supervise students in independent study and senior project research in these areas. 
 
-Below are two **_very brief_** descriptions of recent/current projects in these two areas.
+Below are two brief descriptions of recent/current projects in these two areas.
 
 If you are a student interested in these types of research topics, please feel free to [email me](mailto:jjasbins@calpoly.edu).
 
